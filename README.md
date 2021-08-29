@@ -3,6 +3,8 @@
 DTMSim-IoT is a simulator for Distributed Trust Management Schemes. This tool is developed in C# using Visual Studio 2019 as Windows Application.
 Setup files are added to run on Windows Operating System. Once the installation is done, simulation tool will be available for testing.
 
+All network operations i.e. Configure Network, Initialize Network, Request Service, Service Evaluation, and Compute Trust will be done manually and in the same order for best performance of the simulator. Trust Table information and each Network Transaction details are available in Logs from File menu. Simulation results can also be exported as .CSV from logs. 
+
 For instance, the following two distributed trust management Schemes are implemented:
 
 1. Dynamic Distributed Trust Management Scheme (https://journals.tubitak.gov.tr/elektrik/issues/elk-21-29-2/elk-29-2-21-2003-5.pdf)
