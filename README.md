@@ -1,4 +1,4 @@
-# DTMSim-IoT V1.1
+# DTMSim-IoT V1.0
 
 DTMSim-IoT is a simulator for Distributed Trust Management Schemes. This tool is developed in C# using Visual Studio 2019 as Windows Application.
 Setup files are added to run on Windows Operating System. Once the installation is done, simulation tool will be available for testing.
@@ -17,5 +17,5 @@ If anyone wants to contribute, please let me know. We will surely work together 
 *Note: In case of any inconvenience, please don't hesitate to contact me.
 Here are my contact details:
 
-Email: wasifhamdani14@gmail.com
+Email: hamdani.cybsec@gmail.com
 Mobile: +923335923709
