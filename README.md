@@ -7,7 +7,7 @@ All network operations i.e. Configure Network, Initialize Network, Request Servi
 
 For instance, the following two distributed trust management Schemes are implemented:
 
-1. Dynamic Distributed Trust Management Scheme (https://journals.tubitak.gov.tr/elektrik/issues/elk-21-29-2/elk-29-2-21-2003-5.pdf)
+1. Dynamic Distributed Trust Management Scheme (https://journals.tubitak.gov.tr/elektrik/vol29/iss2/21/)
 2. Static Distributed Trust Management Scheme (https://journals.sagepub.com/doi/full/10.1155/2015/859731)
 
 However, the other distributed trust management models can also be implemented on demand. 
