@@ -57,8 +57,15 @@ Setup files are also available for quick installation without compiling the sour
 
 If you face any issues or have ideas for collaboration, please don’t hesitate to reach out:
 
-- 📧 Email: **hamdani.cybsec@gmail.com**
+- 📧 Email: **wasif@cyberwalk.pk**
 - 📱 Mobile: **+92 333 5923709**
+
+-
+ 🌐 Blog: [
+Cyberwalk.pk
+](
+https://cyberwalk.pk
+) — promoting cyber awareness and contributing to the UN Sustainable Development Goals (SDGs)
 
 Let’s build a more secure and trustworthy IoT future together!
 
