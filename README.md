@@ -1,21 +1,69 @@
 # DTMSim-IoT V1.0
 
-DTMSim-IoT is a simulator for Distributed Trust Management Schemes. This tool is developed in C# using Visual Studio 2019 as Windows Application.
-Setup files are added to run on Windows Operating System. Once the installation is done, simulation tool will be available for testing.
+**DTMSim-IoT** is a standalone simulator for **Distributed Trust Management Schemes in IoT networks**. Originally developed in C# using Visual Studio 2019 as a Windows application, this tool was designed as part of my Master's thesis and presented at a top IEEE conference held at the **University of Calgary, Canada**, on **August 21, 2020**. The corresponding conference paper is published and has since received wide recognition.
 
-All network operations i.e. Configure Network, Initialize Network, Request Service, Service Evaluation, and Compute Trust will be done manually and in the same order for best performance of the simulator. Trust Table information and each Network Transaction details are available in Logs from File menu. Simulation results can also be exported as .CSV from logs. 
+Over the past 5 years, **many PhD and Master's researchers around the globe have contacted me** expressing their interest in this tool and its relevance to their work in trust management for IoT. Numerous research papers have cited my work, and this response has further fueled my commitment to contribute to the research community.
 
-For instance, the following two distributed trust management Schemes are implemented:
+Today, as part of my passion for open-source and knowledge sharing, I am publishing the **complete source code** of DTMSim-IoT on GitHub. I believe this simulator can serve as a valuable **test bench for researchers and students** to model, test, and extend various distributed trust models.
 
-1. Dynamic Distributed Trust Management Scheme (https://journals.tubitak.gov.tr/elektrik/vol29/iss2/21/)
-2. Static Distributed Trust Management Scheme (https://journals.sagepub.com/doi/full/10.1155/2015/859731)
+---
 
-However, the other distributed trust management models can also be implemented on demand. 
-My prime objective is to make this simulation tool as an open source test bench for researchers to test their models. 
-If anyone wants to contribute, please let me know. We will surely work together to make this tool open source.
+## 🔧 Features
 
-*Note: In case of any inconvenience, please don't hesitate to contact me.
-Here are my contact details:
+- Windows Desktop Application
+- Manual Simulation Workflow:
+  - Configure Network
+  - Initialize Network
+  - Request Service
+  - Evaluate Service
+  - Compute Trust
+- **Trust Table** and **Transaction Logs** available via the File menu
+- Export logs and simulation results as **CSV**
+- Clean, organized UI with step-by-step manual control
 
-Email: hamdani.cybsec@gmail.com
-Mobile: +923335923709
+---
+
+## 📘 Implemented Trust Models
+
+1. **Dynamic Distributed Trust Management Scheme**  
+   [TÜBİTAK Journal Reference](https://journals.tubitak.gov.tr/elektrik/vol29/iss2/21/)
+
+2. **Static Distributed Trust Management Scheme**  
+   [Hindawi Journal Reference](https://journals.sagepub.com/doi/full/10.1155/2015/859731)
+
+Additional models can be added on demand. Contributors are welcome to implement new schemes and improve the simulator further.
+
+---
+
+## 🌍 Open Source Spirit
+
+This simulator is now officially open source under the **Apache License 2.0**. I warmly invite students, developers, and researchers to explore the codebase, use it in their projects, and contribute enhancements.
+
+If you are working on trust models in IoT or related research fields, **feel free to reach out** — I would love to collaborate or support your work.
+
+---
+
+## 📂 Installation
+
+1. Clone or download this repository.
+2. Open the solution file in **Visual Studio 2019 or newer**.
+3. Build and run the simulator on any supported **Windows** environment.
+
+Setup files are also available for quick installation without compiling the source.
+
+---
+
+## 💬 Contact
+
+If you face any issues or have ideas for collaboration, please don’t hesitate to reach out:
+
+- 📧 Email: **hamdani.cybsec@gmail.com**
+- 📱 Mobile: **+92 333 5923709**
+
+Let’s build a more secure and trustworthy IoT future together!
+
+---
+
+## 📄 License
+
+This project is licensed under the [Apache License 2.0](LICENSE).
